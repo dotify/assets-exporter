@@ -1,0 +1,28 @@
+{
+  "name": "assets-exporter",
+  "version": "1.0.0",
+  "description": "After Effects and Photoshop assets exporter to HTML, JS, CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotify/assets-exporter.git"
+  },
+  "keywords": [
+    "after-effects",
+    "photoshop",
+    "export",
+    "tweenmax",
+    "timelinemax",
+    "gsap",
+    "greensock"
+  ],
+  "author": "Dotify",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dotify/assets-exporter/issues"
+  },
+  "homepage": "https://github.com/dotify/assets-exporter#readme"
+}
