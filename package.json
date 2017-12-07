@@ -24,5 +24,14 @@
   "bugs": {
     "url": "https://github.com/dotify/assets-exporter/issues"
   },
-  "homepage": "https://github.com/dotify/assets-exporter#readme"
+  "homepage": "https://github.com/dotify/assets-exporter#readme",
+  "dependencies": {
+    "ae-to-json": "^1.1.2",
+    "after-effects": "^0.4.15",
+    "js-beautify": "^1.7.4",
+    "js-yaml": "^3.10.0",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "ncp": "^2.0.0"
+  }
 }
